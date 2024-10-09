@@ -4,14 +4,14 @@ title = 'alexdavis28'
 theme = 'typo'
 
 [taxonomies]
-tag = 'tags'
+tag = 'portfolio'
 
 # Google analytics code
-googleAnalytics = "G-xxxxxxxxx"
+# googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "Portfolio website for Alex Davis"
 
 # Appearance settings
 theme = 'auto'
@@ -19,10 +19,10 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hey hey'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I'm a British Sotware Engineer / Computer Science student at University of Edinburgh.
+I'm liable to take an interest in basically anything, but I've got a particular love for Python and sys-admin work.
 """
 
 # Collection to display on home
@@ -40,15 +40,11 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "https://www.linkedin.com/in/alexander-mark-davis/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/alexDavis28/"
 
 # Main menu pages
 [[params.menu]]
