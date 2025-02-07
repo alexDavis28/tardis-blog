@@ -1,6 +1,6 @@
 baseURL = 'https://alexdavis.tardis.ac/'
 languageCode = 'en-uk'
-title = 'alexdavis28'
+title = 'Alex Davis'
 theme = 'typo'
 
 [taxonomies]
@@ -15,14 +15,14 @@ description = "Portfolio website for Alex Davis"
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'eink'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hey hey'
+homeIntroTitle = 'Hey hey!'
 homeIntroContent = """
-I'm a British Software Engineer / Computer Science student at University of Edinburgh.
-I'm liable to take an interest in basically anything, but I've got a particular love for Python and sys-admin work.
+I’m a Software Engineer / Computer Science student at The University of Edinburgh.
+I'm always enthusiastic about discovering new areas, but I’ve got a particular interest in Python and sysadmin work.
 """
 
 # Collection to display on home
@@ -46,6 +46,10 @@ url = "https://www.linkedin.com/in/alexander-mark-davis/"
 name = "github"
 url = "https://github.com/alexDavis28/"
 
+[[params.social]]
+name = "email"
+url = "mailto:8m3xlt@gmail.com"
+
 # Main menu pages
 [[params.menu]]
 name = "home"
@@ -53,11 +57,11 @@ url = "/"
 
 [[params.menu]]
 name = "posts"
-url = "/posts"
+url = "/posts/"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+# [[params.menu]]
+# name = "about"
+# url = "/about"
 
 # Syntax highligth on code blocks
 [markup]
