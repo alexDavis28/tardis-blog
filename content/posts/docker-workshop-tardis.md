@@ -1,7 +1,7 @@
 +++
 title = 'Docker Workshop'
 date = 2025-02-07T15:15:02Z
-summary = 'I ran a Docker Workshop for the Tardis Project at my uni'
+summary = 'Running a Docker Workshop at my uni'
 draft = false
 toc =  true
 readTime =  true
@@ -14,10 +14,10 @@ hideBackToTop =  false
 # Running a Docker workshop
 During my time at university I’ve been volunteering with the [Tardis Project](https://tardisproject.uk/), a student led group that provides computing services and support for students looking to learn and practice sysadmin skills in a production-like environment.
 
-We'd been talking about running more workshops on various aspects of system administration and devops - and since I'd previously worked with a lot of Docker containers whilst setting up self hosted services (a personal favourite being [Mealie](https://mealie.io/)) I offered to run one on using docker
+We'd been talking about running more workshops on various aspects of system administration and devops - and since I'd previously worked with a lot of Docker containers whilst setting up self hosted services (a personal favourite being [Mealie](https://mealie.io/)) I offered to run one on using docker.
 
 ## Creating the repository
-I worked with [Emily](https://emilymiller.xyz/) on creating a very simple flask app,  example Dockerfil and docker-compose file for the workshop.
+I worked with [Emily](https://emilymiller.xyz/) on creating a very simple flask app, example Dockerfile and docker-compose file for the workshop.
 
 We hosted the repo on the Tardis Project gitlab, and it can be found [here](https://git.tardisproject.uk/emily747/docker-workshop-2025).
 

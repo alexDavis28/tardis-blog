@@ -1,7 +1,7 @@
 baseURL = 'https://alexdavis.tardis.ac/'
 languageCode = 'en-uk'
 title = 'Alex Davis'
-theme = 'typo'
+theme = ['hugo-embed-pdf-shortcode', 'typo']
 
 [taxonomies]
 tag = 'portfolio'
@@ -14,7 +14,7 @@ tag = 'portfolio'
 description = "Portfolio website for Alex Davis"
 
 # Appearance settings
-theme = 'auto'
+theme = 'gruvebox'
 colorPalette = 'eink'
 hideHeader = false
 
@@ -58,6 +58,10 @@ url = "/"
 [[params.menu]]
 name = "posts"
 url = "/posts/"
+
+[[params.menu]]
+name = "cv"
+url = "/cv/"
 
 # [[params.menu]]
 # name = "about"
