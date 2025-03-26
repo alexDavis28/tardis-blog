@@ -1,11 +1,11 @@
 +++
 title = 'Running for Secretary'
 date = 2025-03-26T14:00:37Z
-summary = 'Running for Secretary of CompSoc'
+summary = ''
 draft = false
 toc = true
 readTime = true
-autonumber = true
+autonumber = false
 math = true
 tags = ["post", "compsoc", "uni"]
 showTags = true
