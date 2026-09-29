@@ -1,7 +1,7 @@
 +++
 title = 'Running for Secretary'
 date = 2025-03-26T14:00:37Z
-summary = ''
+summary = 'And my manifesto'
 draft = false
 toc = true
 readTime = true
@@ -13,7 +13,7 @@ hideBackToTop = false
 +++
 
 # I'm running for Secretary of CompSoc at the 2025 AGM!
-I've uploaded my [manifesto here](/secretary-manifesto.pdf) (compiled in Typst) and also included the contents below.
+I've uploaded my [manifesto here](/compsoc/secretary-manifesto.pdf) (compiled in Typst) and also included the contents below.
 
 ## Manifesto
 Hey! I'm reaching the end of my first year at Edinburgh, and next year I want to help keep CompSoc running smoothly as secretary. CompSoc has been one of the best parts of university for me, and I want to make sure we can continue to provide incredible opportunities for future years.
